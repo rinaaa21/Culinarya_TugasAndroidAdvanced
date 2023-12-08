@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Culinarya</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="movie_title">Resep Title</string>
+    <string name="movie_description">Resep Description</string>
+
+    <string name="arsenal">Cocktails</string>
+    <string name="brighton">Boba Coffe</string>
+    <string name="brentford">Iced Coffe</string>
+    <string name="chelsea">Milk Jelly</string>
+    <string name="palace">Cendol Durian</string>
+    <string name="everton">Soto Ayam</string>
+    <string name="liverpool">Nasi Jagung</string>
+    <string name="united">Ayam Taliwang</string>
+    <string name="city">Waffle with Ice Cream</string>
+    <string name="newcastle">Pancake</string>
+    <string name="forest">Ice Cream</string>
+    <string name="stanley">Italian Paste </string>
+
+
+    <string name="look">Lihat resep ></string>
+
+
+    <string name="desc">Disini Ada Resep</string>
+
+
+</resources>
